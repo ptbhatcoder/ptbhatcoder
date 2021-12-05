@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Hi there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
+<h3>Hi there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> नमस्ते <img src="https://raw.githubusercontent.com/ptbhatcoder/ptbhatcoder/main/emoji-gifs/namaste.gif" width="20px"> </h3>
